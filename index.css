@@ -62,3 +62,14 @@ pad5px{
 .mar-bot30px{
     margin-bottom: 30px;
 }
+/* .mar30px{
+    margin: 30px;
+} */
+.footer{
+    color: #FFFFFF;
+    background-color: #ff9900;
+    text-align: center; 
+}
+.footer-placeholder{
+    height: 10px;
+}
