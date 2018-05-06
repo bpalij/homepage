@@ -21,8 +21,32 @@ pad5px{
     color: #FF6600;
 }
 .contact-size{
-    font-size: 1.25em;
+    font-size: 1.2em;
+    color: #330066;
+}
+.name{
+    color: #000033;
 }
 .justify{
     text-align: justify;
+}
+.yellow-header{
+    color: #FF9900;
+}
+.black{
+    color: #000000;
+}
+/* .yellow-line-div{
+    border: 1px solid #FF9900;
+} */
+.center-text{
+    text-align: center;
+}
+.mar5px{
+    margin: 5px;
+    /* margin-top: 0px; */
+}
+.resume-item{
+    border: 1px solid #cccccc;
+    border-top: 5px solid #ff9900;
 }
