@@ -50,3 +50,9 @@ pad5px{
     border: 1px solid #cccccc;
     border-top: 5px solid #ff9900;
 }
+.pad10px{
+    padding: 10px;
+}
+.mar-bot10px{
+    margin-bottom: 10px;
+}
