@@ -14,6 +14,9 @@ pad5px{
     color: inherit;
     text-decoration: inherit;
 }
+.hidden-link:hover{
+    font-weight: bold;
+}
 .linkedin-blue{
     color: #0077b5;
 }
@@ -55,4 +58,7 @@ pad5px{
 }
 .mar-bot10px{
     margin-bottom: 10px;
+}
+.mar-bot30px{
+    margin-bottom: 30px;
 }
